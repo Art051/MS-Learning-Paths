@@ -1,0 +1,17 @@
+﻿Module: Build a web API with minimal API, ASP.NET Core, and .NET 6
+PizzaStore Folder
+
+Module: Use a database with minimal API, Entity Framework Core, and ASP.NET Core
+Pizza Folder
+
+Module:
+Create a full stack application by using React and minimal API for ASP.NET Core
+
+
+Prerequisites
+
+    Fundamental understanding of JavaScript.
+    Node.js installed.
+    Working knowledge of the web, especially on request and responses in HTTP.
+
+Don't know any JavaScript currently and don't have Node.js - will return to this. 
