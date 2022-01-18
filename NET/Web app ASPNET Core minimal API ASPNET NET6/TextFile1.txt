@@ -7,11 +7,3 @@ Pizza Folder
 Module:
 Create a full stack application by using React and minimal API for ASP.NET Core
 
-
-Prerequisites
-
-    Fundamental understanding of JavaScript.
-    Node.js installed.
-    Working knowledge of the web, especially on request and responses in HTTP.
-
-Don't know any JavaScript currently and don't have Node.js - will return to this. 

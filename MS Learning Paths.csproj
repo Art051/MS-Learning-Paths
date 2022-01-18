@@ -9,33 +9,33 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Include="C Sharp\Build NET applications\.vs\MS Build NET applications with CSharp\project-colors.json" />
-    <Content Include="C Sharp\Build NET applications\ContosoPizza\.vscode\launch.json" />
-    <Content Include="C Sharp\Build NET applications\ContosoPizza\.vscode\tasks.json" />
-    <Content Include="C Sharp\Create web API\ContosoPizza\.vscode\launch.json" />
-    <Content Include="C Sharp\Create web API\ContosoPizza\.vscode\tasks.json" />
+    <Content Include="NET\Build NET applications\.vs\MS Build NET applications with CSharp\project-colors.json" />
+    <Content Include="NET\Build NET applications\ContosoPizza\.vscode\launch.json" />
+    <Content Include="NET\Build NET applications\ContosoPizza\.vscode\tasks.json" />
+    <Content Include="NET\Create web API\ContosoPizza\.vscode\launch.json" />
+    <Content Include="NET\Create web API\ContosoPizza\.vscode\tasks.json" />
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="C Sharp\Build NET applications\.vs\MS Build NET applications with CSharp\DesignTimeBuild\.dtbcache.v2" />
-    <None Include="C Sharp\Build NET applications\.vs\MS Build NET applications with CSharp\v17\.futdcache.v1" />
-    <None Include="C Sharp\Build NET applications\ContosoPizza\ContosoPizza.csproj" />
-    <None Include="C Sharp\Build NET applications\MS Build NET applications with CSharp.csproj" />
-    <None Include="C Sharp\Build NET applications\MS Build NET applications with CSharp.sln" />
-    <None Include="C Sharp\Create web API\ContosoPizza\ContosoPizza.csproj" />
-    <None Include="C Sharp\Web app ASPNET Core minimal API ASPNET NET6\PizzaStore\PizzaStore.csproj" />
-    <None Include="C Sharp\Web app ASPNET Core minimal API ASPNET NET6\Pizza\PizzaStore1\PizzaStore.csproj" />
-    <None Include="JavaScript\WebDevBeginners\WebDevBeginners.njsproj" />
-    <None Include="JavaScript\WebDevBeginners\WebDevBeginners.njsproj.user" />
+    <None Include="NET\Build NET applications\.vs\MS Build NET applications with CSharp\DesignTimeBuild\.dtbcache.v2" />
+    <None Include="NET\Build NET applications\.vs\MS Build NET applications with CSharp\v17\.futdcache.v1" />
+    <None Include="NET\Build NET applications\ContosoPizza\ContosoPizza.csproj" />
+    <None Include="NET\Build NET applications\MS Build NET applications with CSharp.csproj" />
+    <None Include="NET\Build NET applications\MS Build NET applications with CSharp.sln" />
+    <None Include="NET\Create web API\ContosoPizza\ContosoPizza.csproj" />
+    <None Include="NET\Web app ASPNET Core minimal API ASPNET NET6\PizzaStore\PizzaStore.csproj" />
+    <None Include="NET\Web app ASPNET Core minimal API ASPNET NET6\Pizza\PizzaStore1\PizzaStore.csproj" />
+    <None Include="Azure\WebDevBeginners\WebDevBeginners.njsproj" />
+    <None Include="Azure\WebDevBeginners\WebDevBeginners.njsproj.user" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="C Sharp\Build NET applications\bin\Debug\net6.0\ref\" />
-    <Folder Include="C Sharp\Build NET applications\ContosoPizza\obj\Debug\net6.0\staticwebassets\" />
-    <Folder Include="C Sharp\Build NET applications\obj\Debug\net6.0\ref\" />
-    <Folder Include="C Sharp\Create web API\ContosoPizza\obj\Debug\net6.0\staticwebassets\" />
-    <Folder Include="C Sharp\Web app ASPNET Core minimal API ASPNET NET6\PizzaStore\obj\Debug\net6.0\staticwebassets\" />
-    <Folder Include="C Sharp\Web app ASPNET Core minimal API ASPNET NET6\Pizza\PizzaStore1\obj\Debug\net6.0\staticwebassets\" />
+    <Folder Include="NET\Build NET applications\bin\Debug\net6.0\ref\" />
+    <Folder Include="NET\Build NET applications\ContosoPizza\obj\Debug\net6.0\staticwebassets\" />
+    <Folder Include="NET\Build NET applications\obj\Debug\net6.0\ref\" />
+    <Folder Include="NET\Create web API\ContosoPizza\obj\Debug\net6.0\staticwebassets\" />
+    <Folder Include="NET\Web app ASPNET Core minimal API ASPNET NET6\PizzaStore\obj\Debug\net6.0\staticwebassets\" />
+    <Folder Include="NET\Web app ASPNET Core minimal API ASPNET NET6\Pizza\PizzaStore1\obj\Debug\net6.0\staticwebassets\" />
   </ItemGroup>
 
 </Project>

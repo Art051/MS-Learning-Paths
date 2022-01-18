@@ -1,4 +1,5 @@
 Logging progression through Microsoft's Learning Paths and tutorials.
+Learning paths are within folders relating to the Product categories they are listed in.
 
 Each folder relates to a separate learning path/standalone module.
 
