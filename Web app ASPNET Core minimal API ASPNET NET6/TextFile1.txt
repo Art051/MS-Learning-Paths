@@ -5,5 +5,4 @@ Module: Use a database with minimal API, Entity Framework Core, and ASP.NET Core
 Pizza Folder
 
 Module:
-Create a full stack application by using React and minimal API for ASP.NET Core
-
+Front end Folder
